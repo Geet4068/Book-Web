@@ -1,0 +1,14 @@
+.trans-bg {
+/* background: "tansparent"; */
+/* backdrop-filter: blur(25px); */
+background: linear-gradient(
+    to bottom,
+    transparent,
+    #E6B9A6
+  )
+  #ffffff;
+padding: 5px;
+margin: 20px;
+width: 80rem;
+border-radius: 5%;
+}
